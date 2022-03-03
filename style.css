@@ -15,10 +15,12 @@ h1{
 h2{
     color: rgb(20, 157, 211);
     text-align: center;
+    margin-top: 40px;
 }
 h3{
     color:chocolate;
-    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 15px;
 }
 abbr{
     text-align: left;
@@ -37,9 +39,6 @@ a:visited{
 }
 footer{
     margin: 0%;
-}
-p{
-    text-align: center;
 }
 dt{
     font-size: large;

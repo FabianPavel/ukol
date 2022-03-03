@@ -1,0 +1,22 @@
+tr,th,td{
+    border: solid 1px;
+}
+table{
+    border-collapse: collapse;
+    text-align: center;
+}
+img{
+    max-width: 200px;
+}
+h1{
+    color: rgb(115, 212, 17);
+}
+h2{
+    color: rgb(20, 157, 211);
+}
+body{
+    margin-right: 50%;
+    background-color: rgb(82, 82, 82);
+    color: whitesmoke;
+}
+
